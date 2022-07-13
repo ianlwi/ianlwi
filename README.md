@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ianlwi
+- 👋 Hi, I’m ian
 - 👀 I’m interested in Dev Ops, Networking, Web
 - 🌱 I’m currently learning Web development & python
 - 💞️ I’m looking to collaborate on - Not at that stage yet, i'm Just a beginner
